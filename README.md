@@ -1,2 +1,2 @@
-# Angry-Birds-C31
-Drag the bird and release to shoot the pigs. Press space to reattach the bird to the sling.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
